@@ -7,11 +7,11 @@
 
   </head>
   <body>
-    <h1><span style="color:blue;">COROBOT</span></h1>
-	<h4> l'app di controllo vocale di un <span style="color:blue;">PLC S71200 Siemens</span></h4>
+    <h1><span style="color:blue;">BILANCIA</span></h1>
+	<h5> si tratta del controllo vocale di una <span style="color:blue;"> bilancia virtuale </span></h5>
     
-    <h3>Clicca sul microfono, pronuncia <span style="color:blue;">la richiesta,</span>
-      attendi qualche secondo e segui l'azionamento <span style="color:blue;">in streaming</span> </h3>
+    <h4>Clicca sul microfono, pronuncia <span style="color:blue;">la richiesta,</span>
+      attendi qualche secondo e segui l'azionamento <span style="color:blue;">in streaming</span> </h4>
     <p style="background-color : blue;"><br>
     </p>
     <p style="background-color : white;"><br>
