@@ -6,4 +6,4 @@ Leonardo Pisano, meglio conosciuto con il soprannome di Fibonacci (o anche Leona
 
 ### Dove rispondere al quesito?
 
-<a href="controllovocale/controllovocale.html"> File di risposta </a>
+<a href="controllo%20vocale/controllovocale.html"> File di risposta </a>
