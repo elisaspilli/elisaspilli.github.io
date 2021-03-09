@@ -1,4 +1,4 @@
-## Bilancia di Fibonacci
+Bilancia di Fibonacci
 
 # Leonardo Pisano
 
