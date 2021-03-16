@@ -6,7 +6,7 @@ Leonardo Pisano, meglio conosciuto con il soprannome di Fibonacci (o anche Leona
 
 ### Formulazione del quesito
 
-Si ha a disposizione una bilancia a due piatti e 13 oggetti di peso crescente da 1 a 13 grammi; il fine del quesito è indovinare il peso di tre tarature in grado di porre in equilibrio, una alla volta, gli oggetti posti su un piatto della bilancia. Le tarature possono essere collocate su uno o su ambedue i piatti anche in numero inferiore a tre. Quali sono i valori delle tre tarature incognite?
+Si ha a disposizione una bilancia a due piatti e 13 oggetti di peso crescente da 1 a 13 grammi; il fine del quesito è indovinare il peso di tre tarature in grado di porre in equilibrio, una alla volta, gli oggetti posti su un piatto della bilancia. Le tarature possono essere collocate su uno o su ambedue i piatti anche in numero inferiore a tre. Quali sono le tre tarature incognite?
 
 ### Dove rispondere al quesito?
 
